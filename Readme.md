@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Богдан Федотов](https://up.htmlacademy.ru/javascript/33/user/2217035).
-* Наставник: `Неизвестно`.
+- Студент: [Богдан Федотов](https://up.htmlacademy.ru/javascript/33/user/2217035).
+- Наставник: [Артём Именин](https://htmlacademy.ru/profile/aimenin).
 
 ---
 
